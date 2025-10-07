@@ -22,7 +22,7 @@ const questions = [
   {
     "question": "89. What is the flap setting for takeoff?",
     "options": ["a) 0%", "b) 100%", "c) 50%", "d) 25%"],
-    "correct": 0
+    "correct": 2
   },
   {
     "question": "90. Which of the following are valid flap settings for landing?",
@@ -32,7 +32,7 @@ const questions = [
   {
     "question": "91. What is the load factor range for Flaps 0%?",
     "options": ["a) 0g to +1.9g", "b) -1g to +1g", "c) -4g to +4g", "d) -1.9g to +3.8g"],
-    "correct": 0
+    "correct": 3
   },
   {
     "question": "92. What is the load factor range for Flaps 50%?",
@@ -42,7 +42,7 @@ const questions = [
   {
     "question": "93. What is the load factor range for Flaps 100%?",
     "options": ["a) -1g to +1g", "b) -1.9g to +3.8g", "c) 0g to +1.9g", "d) -4g to +4g"],
-    "correct": 3
+    "correct": 2
   },
   {
     "question": "94. What is the maximum takeoff altitude in feet Mean Sea Level (MSL)?",
@@ -67,7 +67,7 @@ const questions = [
   {
     "question": "98. What is the minimum height enroute or during descent for the autopilot?",
     "options": ["a) 1500 ft AGL", "b) 1200 ft AGL", "c) 1000 ft AGL", "d) 800 ft AGL"],
-    "correct": 3
+    "correct": 2
   },
   {
     "question": "99. What is the minimum height for approach in GP or GS mode using the autopilot?",
@@ -136,7 +136,8 @@ const questions = [
   },
   {
     "question": "112. Which components are listed as required placards for this aircraft?",
-    "options": ["a) Oil filter, fuel filler, upper fuselage", "b) Oil filter, APU, wing fluid filter, CAPS, APU, doors, wing fluid filter, cabin window, CAPS", "c) Fuel filler, doors, cabin window", "d) Oil filter, fuel filler, landing gear"],
+    "options": ["a) Oil filter, fuel filler, upper fuselage CAPS, APU, Doors, Wing fluid filter, cabin window, CAPS", "b) Oil filter, APU, wing fluid filter, CAPS", "c) Fuel filler, doors, cabin window", "d) Oil filter, fuel filler, landing gear"],
     "correct": 1
   }
+
 ];
