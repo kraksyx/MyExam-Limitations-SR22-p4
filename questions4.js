@@ -137,7 +137,8 @@ const questions = [
   {
     "question": "112. Which components are listed as required placards for this aircraft?",
     "options": ["a) Oil filter, fuel filler, upper fuselage CAPS, APU, Doors, Wing fluid filter, cabin window, CAPS", "b) Oil filter, APU, wing fluid filter, CAPS", "c) Fuel filler, doors, cabin window", "d) Oil filter, fuel filler, landing gear"],
-    "correct": 1
+    "correct": 0
   }
 
 ];
+
